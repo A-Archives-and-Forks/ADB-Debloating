@@ -36,6 +36,10 @@
         "Package":  "com.google.android.apps.kids.familylinkhelper"
     },
     {
+        "Name":  "Kids Space",
+        "Package":  "com.google.android.apps.kids.home"
+    },
+    {
         "Name":  "Gmail",
         "Package":  "com.google.android.gm"
     },
