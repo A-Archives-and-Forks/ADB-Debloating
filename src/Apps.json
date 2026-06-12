@@ -1,0 +1,714 @@
+﻿[
+    {
+        "Name":  "Aliexpress",
+        "Package":  "com.alibaba.aliexpresshd"
+    },
+    {
+        "Name":  "Aliexpress Ru",
+        "Package":  "ru.aliexpress.buyer"
+    },
+    {
+        "Name":  "Amazon Shopping",
+        "Package":  "com.amazon.mShop.android.shopping"
+    },
+    {
+        "Name":  "Analytics",
+        "Package":  "com.miui.analytics"
+    },
+    {
+        "Name":  "Android Accessibility Suite",
+        "Package":  "com.google.android.marvin.talkback"
+    },
+    {
+        "Name":  "Android Auto",
+        "Package":  "com.google.android.projection.gearhead"
+    },
+    {
+        "Name":  "Android One",
+        "Package":  "com.google.android.apps.subscriptions.red"
+    },
+    {
+        "Name":  "App Vault",
+        "Package":  "com.mi.globalminusscreen"
+    },
+    {
+        "Name":  "Ar Zone",
+        "Package":  "com.samsung.android.arzone"
+    },
+    {
+        "Name":  "ARdraw",
+        "Package":  "com.samsung.android.ardrawing"
+    },
+    {
+        "Name":  "Autofill with Samsung Pass",
+        "Package":  "com.samsung.android.samsungpassautofill"
+    },
+    {
+        "Name":  "Bixby",
+        "Package":  "com.samsung.android.bixby.agent"
+    },
+    {
+        "Name":  "Bixby Service",
+        "Package":  "com.samsung.android.bixby.service"
+    },
+    {
+        "Name":  "Bixby Vision",
+        "Package":  "com.samsung.android.visionintelligence"
+    },
+    {
+        "Name":  "Bixby Vision Framework",
+        "Package":  "com.samsung.android.bixbyvision.framework"
+    },
+    {
+        "Name":  "Bixby Voice",
+        "Package":  "com.samsung.android.bixby.agent.dummy"
+    },
+    {
+        "Name":  "Bixby Wakeup",
+        "Package":  "com.samsung.android.bixby.wakeup"
+    },
+    {
+        "Name":  "Block Puzzle Guardian",
+        "Package":  "com.block.puzzle.game.hippo.mi"
+    },
+    {
+        "Name":  "Booking.com",
+        "Package":  "com.booking"
+    },
+    {
+        "Name":  "Bookmark Provider",
+        "Package":  "com.android.bookmarkprovider"
+    },
+    {
+        "Name":  "Bouygues AppCloud",
+        "Package":  "com.aura.oobe.bouygues"
+    },
+    {
+        "Name":  "Briefing",
+        "Package":  "flipboard.boxer.app"
+    },
+    {
+        "Name":  "Bubble Shooter And Friends",
+        "Package":  "com.sukhavati.gotoplaying.bubble.BubbleShooter.mint"
+    },
+    {
+        "Name":  "Chrome",
+        "Package":  "com.android.chrome"
+    },
+    {
+        "Name":  "Compass",
+        "Package":  "com.miui.compass"
+    },
+    {
+        "Name":  "Crazy Juicer",
+        "Package":  "com.crazy.juicer.xm"
+    },
+    {
+        "Name":  "Cross-Device Services",
+        "Package":  "com.google.ambient.streaming"
+    },
+    {
+        "Name":  "DECO PIC",
+        "Package":  "com.samsung.android.livestickers"
+    },
+    {
+        "Name":  "Device Health Services",
+        "Package":  "com.google.android.apps.turbo"
+    },
+    {
+        "Name":  "Dex for PC",
+        "Package":  "com.sec.android.app.dexonpc"
+    },
+    {
+        "Name":  "Digital Wellbeing",
+        "Package":  "com.google.android.apps.wellbeing"
+    },
+    {
+        "Name":  "Documents",
+        "Package":  "com.google.android.apps.docs.editors.docs"
+    },
+    {
+        "Name":  "Downloads",
+        "Package":  "com.android.providers.downloads.ui"
+    },
+    {
+        "Name":  "Duo",
+        "Package":  "com.google.android.apps.tachyon"
+    },
+    {
+        "Name":  "Dust Settle",
+        "Package":  "com.logame.eliminateintruder3d"
+    },
+    {
+        "Name":  "eBay",
+        "Package":  "com.ebay.mobile"
+    },
+    {
+        "Name":  "eBay Partner Attribution",
+        "Package":  "com.ebay.carrier"
+    },
+    {
+        "Name":  "Emoji Keyboard",
+        "Package":  "com.preff.kb.xm"
+    },
+    {
+        "Name":  "Facebook",
+        "Package":  "com.facebook.katana"
+    },
+    {
+        "Name":  "Family Link child and teen",
+        "Package":  "com.google.android.apps.kids.familylinkhelper"
+    },
+    {
+        "Name":  "FM Radio",
+        "Package":  "com.miui.fm"
+    },
+    {
+        "Name":  "FM Radio Service",
+        "Package":  "com.miui.fmservice"
+    },
+    {
+        "Name":  "Galaxy Shop",
+        "Package":  "com.samsung.android.bixby.galaxy"
+    },
+    {
+        "Name":  "Galaxy Themes",
+        "Package":  "com.samsung.android.themestore"
+    },
+    {
+        "Name":  "Galaxy Wearable",
+        "Package":  "com.samsung.android.app.watchmanager"
+    },
+    {
+        "Name":  "Game Booster",
+        "Package":  "com.samsung.android.game.gametools"
+    },
+    {
+        "Name":  "Game Launcher",
+        "Package":  "com.samsung.android.game.gamehome"
+    },
+    {
+        "Name":  "Game Optimizing Service",
+        "Package":  "com.samsung.android.game.gos"
+    },
+    {
+        "Name":  "Gmail",
+        "Package":  "com.google.android.gm"
+    },
+    {
+        "Name":  "Google",
+        "Package":  "com.google.android.googlequicksearchbox"
+    },
+    {
+        "Name":  "Google Assistant",
+        "Package":  "com.android.hotwordenrollment.okgoogle"
+    },
+    {
+        "Name":  "Google Drive",
+        "Package":  "com.google.android.apps.docs"
+    },
+    {
+        "Name":  "Google Files",
+        "Package":  "com.google.android.apps.nbu.files"
+    },
+    {
+        "Name":  "Google Find My Device",
+        "Package":  "com.google.android.apps.adm"
+    },
+    {
+        "Name":  "Google Home",
+        "Package":  "com.google.android.apps.chromecast.app"
+    },
+    {
+        "Name":  "Google Keep",
+        "Package":  "com.google.android.keep"
+    },
+    {
+        "Name":  "Google Lens",
+        "Package":  "com.google.ar.lens"
+    },
+    {
+        "Name":  "Google Location History",
+        "Package":  "com.google.android.gms.location.history"
+    },
+    {
+        "Name":  "Google News",
+        "Package":  "com.google.android.apps.magazines"
+    },
+    {
+        "Name":  "Google One",
+        "Package":  "com.google.android.apps.subscriptions.red"
+    },
+    {
+        "Name":  "Google Pay",
+        "Package":  "com.google.android.apps.walletnfcrel"
+    },
+    {
+        "Name":  "Google Photos",
+        "Package":  "com.google.android.apps.photos"
+    },
+    {
+        "Name":  "Google Play Games",
+        "Package":  "com.google.android.play.games"
+    },
+    {
+        "Name":  "Google Play Music",
+        "Package":  "com.google.android.music"
+    },
+    {
+        "Name":  "Google Play Services for AR",
+        "Package":  "com.google.ar.core"
+    },
+    {
+        "Name":  "Google Podcasts",
+        "Package":  "com.google.android.apps.podcasts"
+    },
+    {
+        "Name":  "Google Searchbox",
+        "Package":  "com.google.android.googlequicksearchbox.nga_resources"
+    },
+    {
+        "Name":  "Google Support Services",
+        "Package":  "com.google.android.apps.helprtc"
+    },
+    {
+        "Name":  "Google TV",
+        "Package":  "com.google.android.videos"
+    },
+    {
+        "Name":  "Health Connect",
+        "Package":  "com.google.android.healthconnect.controller"
+    },
+    {
+        "Name":  "Health Service",
+        "Package":  "com.sec.android.service.health"
+    },
+    {
+        "Name":  "HybridAccessory",
+        "Package":  "com.miui.hybrid"
+    },
+    {
+        "Name":  "IVI",
+        "Package":  "ru.ivi.client"
+    },
+    {
+        "Name":  "Jewels Blast",
+        "Package":  "com.jewelsblast.ivygames.Adventure.free"
+    },
+    {
+        "Name":  "Joyose",
+        "Package":  "com.xiaomi.joyose"
+    },
+    {
+        "Name":  "Kaspersky Internet Security",
+        "Package":  "com.kms.free"
+    },
+    {
+        "Name":  "Kids Space",
+        "Package":  "com.google.android.apps.kids.home"
+    },
+    {
+        "Name":  "Link Sharing",
+        "Package":  "com.samsung.android.app.simplesharing"
+    },
+    {
+        "Name":  "Link to Windows",
+        "Package":  "com.microsoft.appmanager"
+    },
+    {
+        "Name":  "LinkedIn",
+        "Package":  "com.linkedin.android"
+    },
+    {
+        "Name":  "Live Transcribe & Notification",
+        "Package":  "com.google.audio.hearing.visualization.accessibility.scribe"
+    },
+    {
+        "Name":  "Live Wallpaper Picker",
+        "Package":  "com.android.wallpaper.livepicker"
+    },
+    {
+        "Name":  "Lords Mobile",
+        "Package":  "com.igg.android.lordsmobile"
+    },
+    {
+        "Name":  "Maps",
+        "Package":  "com.google.android.apps.maps"
+    },
+    {
+        "Name":  "Mi Browser Pro",
+        "Package":  "com.mi.globalbrowser"
+    },
+    {
+        "Name":  "Mi Coin",
+        "Package":  "com.xiaomi.payment"
+    },
+    {
+        "Name":  "Mi Community",
+        "Package":  "com.mi.global.shop"
+    },
+    {
+        "Name":  "Mi Doc Viewer (Powered by WPS)",
+        "Package":  "cn.wps.xiaomi.abroad.lite"
+    },
+    {
+        "Name":  "Mi Home",
+        "Package":  "com.xiaomi.smarthome"
+    },
+    {
+        "Name":  "Mi Mover",
+        "Package":  "com.miui.huanji"
+    },
+    {
+        "Name":  "Mi Music",
+        "Package":  "com.miui.player"
+    },
+    {
+        "Name":  "Mi Picks",
+        "Package":  "com.xiaomi.mipicks"
+    },
+    {
+        "Name":  "Mi Remote",
+        "Package":  "com.duokan.phone.remotecontroller"
+    },
+    {
+        "Name":  "Mi Video",
+        "Package":  "com.miui.videoplayer"
+    },
+    {
+        "Name":  "Mi Wallpaper Carousel",
+        "Package":  "com.miui.android.fashiongallery"
+    },
+    {
+        "Name":  "Microsoft SwiftKey Keyboard",
+        "Package":  "com.touchtype.swiftkey"
+    },
+    {
+        "Name":  "MiDrive",
+        "Package":  "com.miui.newmidrive"
+    },
+    {
+        "Name":  "MIUI Notes",
+        "Package":  "com.miui.notes"
+    },
+    {
+        "Name":  "Mobile Legends: Bang Bang",
+        "Package":  "com.mobilelegends.mi"
+    },
+    {
+        "Name":  "msa",
+        "Package":  "com.miui.msa.global"
+    },
+    {
+        "Name":  "My Emoji Stickers",
+        "Package":  "com.sec.android.mimage.avatarstickers"
+    },
+    {
+        "Name":  "My Galaxy",
+        "Package":  "com.mygalaxy"
+    },
+    {
+        "Name":  "My Verizon Services",
+        "Package":  "com.verizon.mips.services"
+    },
+    {
+        "Name":  "Netflix",
+        "Package":  "com.netflix.mediaclient"
+    },
+    {
+        "Name":  "Office",
+        "Package":  "com.microsoft.office.officehubrow"
+    },
+    {
+        "Name":  "Okko",
+        "Package":  "ru.more.play"
+    },
+    {
+        "Name":  "OneDrive",
+        "Package":  "com.microsoft.skydrive"
+    },
+    {
+        "Name":  "Opera",
+        "Package":  "com.opera.browser"
+    },
+    {
+        "Name":  "Outlook",
+        "Package":  "com.microsoft.office.outlook"
+    },
+    {
+        "Name":  "Ozon",
+        "Package":  "ru.ozon.app.android"
+    },
+    {
+        "Name":  "PartnerNetflixActivation",
+        "Package":  "com.netflix.partner.activation"
+    },
+    {
+        "Name":  "PeopleStrip",
+        "Package":  "com.samsung.android.service.peoplestripe"
+    },
+    {
+        "Name":  "Personal Safety",
+        "Package":  "com.google.android.apps.safetyhub"
+    },
+    {
+        "Name":  "Pixel Buds",
+        "Package":  "com.google.android.apps.wearables.maestro.companion"
+    },
+    {
+        "Name":  "Pixel Live Wallpaper",
+        "Package":  "com.google.pixel.livewallpaper"
+    },
+    {
+        "Name":  "Pixel Tips",
+        "Package":  "com.google.android.apps.tips"
+    },
+    {
+        "Name":  "POCO Community",
+        "Package":  "com.mi.global.pocobbs"
+    },
+    {
+        "Name":  "POCO Store",
+        "Package":  "com.mi.global.pocostore"
+    },
+    {
+        "Name":  "Private Share",
+        "Package":  "com.samsung.android.privateshare"
+    },
+    {
+        "Name":  "PUBG MOBILE Gift Box",
+        "Package":  "com.tencent.igxiaomi"
+    },
+    {
+        "Name":  "Reminder",
+        "Package":  "com.samsung.android.app.reminder"
+    },
+    {
+        "Name":  "Routines",
+        "Package":  "com.samsung.android.app.routines"
+    },
+    {
+        "Name":  "RuStore",
+        "Package":  "ru.vk.store"
+    },
+    {
+        "Name":  "Samsung App Recommendations",
+        "Package":  "com.samsung.android.mapsagent"
+    },
+    {
+        "Name":  "Samsung AR Emoji Editor",
+        "Package":  "com.samsung.android.aremojieditor"
+    },
+    {
+        "Name":  "Samsung Daily",
+        "Package":  "com.samsung.android.app.spage"
+    },
+    {
+        "Name":  "Samsung DeX",
+        "Package":  "com.sec.android.desktopmode.uiservice"
+    },
+    {
+        "Name":  "Samsung DeX Home",
+        "Package":  "com.sec.android.app.desktoplauncher"
+    },
+    {
+        "Name":  "Samsung Galaxy Friends",
+        "Package":  "com.samsung.android.mateagent"
+    },
+    {
+        "Name":  "Samsung Global Goals",
+        "Package":  "com.samsung.sree"
+    },
+    {
+        "Name":  "Samsung Health",
+        "Package":  "com.sec.android.app.shealth"
+    },
+    {
+        "Name":  "Samsung Honey Board",
+        "Package":  "com.samsung.android.honeyboard"
+    },
+    {
+        "Name":  "Samsung Internet",
+        "Package":  "com.sec.android.app.sbrowser"
+    },
+    {
+        "Name":  "Samsung Kids",
+        "Package":  "com.sec.android.app.kidshome"
+    },
+    {
+        "Name":  "Samsung Kids Installer",
+        "Package":  "com.samsung.android.kidsinstaller"
+    },
+    {
+        "Name":  "Samsung Members",
+        "Package":  "com.samsung.android.voc"
+    },
+    {
+        "Name":  "Samsung My Files",
+        "Package":  "com.sec.android.app.myfiles"
+    },
+    {
+        "Name":  "Samsung Notes",
+        "Package":  "com.samsung.android.app.notes"
+    },
+    {
+        "Name":  "Samsung Pass",
+        "Package":  "com.samsung.android.authfw"
+    },
+    {
+        "Name":  "Samsung Pass Provider",
+        "Package":  "com.samsung.android.samsungpass"
+    },
+    {
+        "Name":  "Samsung Pay",
+        "Package":  "com.samsung.android.spay"
+    },
+    {
+        "Name":  "Samsung Shop",
+        "Package":  "com.samsung.ecomm.global.in"
+    },
+    {
+        "Name":  "Samsung Translator",
+        "Package":  "com.samsung.android.app.interpreter"
+    },
+    {
+        "Name":  "Samsung User Manual",
+        "Package":  "com.sec.android.widgetapp.webmanual"
+    },
+    {
+        "Name":  "Samsung Vision AR",
+        "Package":  "com.samsung.android.visionarapps"
+    },
+    {
+        "Name":  "Samsung Voice Recorder",
+        "Package":  "com.sec.android.app.voicenote"
+    },
+    {
+        "Name":  "Secure Folder",
+        "Package":  "com.samsung.knox.securefolder"
+    },
+    {
+        "Name":  "Services & Feedback",
+        "Package":  "com.miui.miservice"
+    },
+    {
+        "Name":  "ShareMe",
+        "Package":  "com.xiaomi.midrop"
+    },
+    {
+        "Name":  "SIM Manager",
+        "Package":  "com.google.android.apps.euicc"
+    },
+    {
+        "Name":  "SIM Toolkit",
+        "Package":  "com.android.stk"
+    },
+    {
+        "Name":  "Smart Switch",
+        "Package":  "com.sec.android.easyMover"
+    },
+    {
+        "Name":  "Smart Tutor",
+        "Package":  "com.rsupport.rs.activity.rsupport.aas2"
+    },
+    {
+        "Name":  "SmartThings",
+        "Package":  "com.samsung.android.oneconnect"
+    },
+    {
+        "Name":  "Snake Zone.io",
+        "Package":  "com.nf.snake"
+    },
+    {
+        "Name":  "Sound recorder",
+        "Package":  "com.google.android.apps.recorder"
+    },
+    {
+        "Name":  "Spotify",
+        "Package":  "com.spotify.music"
+    },
+    {
+        "Name":  "State of Survival",
+        "Package":  "com.kingsgroup.ss.xiaomi"
+    },
+    {
+        "Name":  "SwiftKey factory settings",
+        "Package":  "com.touchtype.swiftkey"
+    },
+    {
+        "Name":  "TikTok",
+        "Package":  "com.zhiliaoapp.musically"
+    },
+    {
+        "Name":  "Tile Fun",
+        "Package":  "com.mintgames.triplecrush.tile.fun"
+    },
+    {
+        "Name":  "Tips",
+        "Package":  "com.samsung.android.app.tips"
+    },
+    {
+        "Name":  "Wear OS by Google Smartwatch",
+        "Package":  "com.google.android.apps.wearable"
+    },
+    {
+        "Name":  "Wearable Manager Installer",
+        "Package":  "com.samsung.android.app.watchmanagerstub"
+    },
+    {
+        "Name":  "World Scenery: Crossword",
+        "Package":  "com.mintgames.wordtrip"
+    },
+    {
+        "Name":  "WPS Office",
+        "Package":  "cn.wps.moffice_eng"
+    },
+    {
+        "Name":  "Xiaomi Community",
+        "Package":  "com.mi.global.bbs"
+    },
+    {
+        "Name":  "Xiaomi Games",
+        "Package":  "com.xiaomi.glgm"
+    },
+    {
+        "Name":  "Yandex",
+        "Package":  "ru.yandex.searchplugin"
+    },
+    {
+        "Name":  "Yandex Browser",
+        "Package":  "com.yandex.browser"
+    },
+    {
+        "Name":  "Yandex Satellite",
+        "Package":  "com.yandex.preinstallsatellite"
+    },
+    {
+        "Name":  "Yandex Start",
+        "Package":  "ru.yandex.searchplugin"
+    },
+    {
+        "Name":  "Yellow Pages",
+        "Package":  "com.miui.yellowpage"
+    },
+    {
+        "Name":  "Youla",
+        "Package":  "com.allgoritm.youla"
+    },
+    {
+        "Name":  "YouTube",
+        "Package":  "com.google.android.youtube"
+    },
+    {
+        "Name":  "YouTube Music",
+        "Package":  "com.google.android.apps.youtube.music"
+    },
+    {
+        "Name":  "Zen",
+        "Package":  "com.yandex.zen"
+    },
+    {
+        "Name":  "ZenkitPartnerConfig",
+        "Package":  "com.yandex.zenkitpartnerconfig"
+    }
+]

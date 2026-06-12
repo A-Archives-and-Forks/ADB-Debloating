@@ -1,7 +1,5 @@
-# Debloat MIUI/HyperOS, One UI, and Pixel Launcher via ADB (no-root) with UI using PowerShell
+# Debloat your Android environment via ADB (no-root)
 
-[telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
-[telegram-news]: https://t.me/sophianews
 [telegram-group]: https://t.me/sophia_chat
 [telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
 
@@ -16,7 +14,7 @@ https://github.com/user-attachments/assets/2bc5e9d9-df37-4dba-8311-3c57ae42751b
 * Download [latest](https://github.com/farag2/ADB-Debloating/releases/latest) release
 * Open PowerShell `as admin` and run `Set-ExecutionPolicy -ExecutionPolicy Bypass -Force`
 * Right-click on `Download_ADB.ps1` to download the latest ADB provided
-* Right-click on `Function.ps1` to choose which application to remove
+* Right-click on `Run_Debloater.ps1` to choose which application to remove
 
 ## Links
 
