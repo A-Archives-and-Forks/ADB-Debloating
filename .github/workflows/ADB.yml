@@ -1,9 +1,11 @@
 name: Build
 
-on:
-  push:
-    tags:
-      - "*.*"
+on: 
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag"
+        required: true
 
 jobs:
   patch:
@@ -22,8 +24,11 @@ jobs:
           Compress-Archive @Parameters
 
       - name: Uploading
-        uses: softprops/action-gh-release@master
-        with:
-          name: ${{ env.RELEASE_NAME }}
-          token: ${{ github.token }}
-          files: ADB.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          $Tag   = "${{ inputs.tag }}"
+          $Files = "ADB.zip"
+          $Title = $env:RELEASE_NAME
+
+          gh release create $Tag $Files --title $Title
