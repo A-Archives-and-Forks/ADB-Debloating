@@ -29,6 +29,5 @@ jobs:
         run: |
           $Tag   = "${{ inputs.tag }}"
           $Files = "ADB.zip"
-          $Title = $env:RELEASE_NAME
-
+          $Title = "${{ inputs.tag }}"
           gh release create $Tag $Files --title $Title
